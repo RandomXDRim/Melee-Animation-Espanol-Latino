@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AM_Tips.tips.0>Las animaciones de ejecución no pueden cancelarse una vez iniciadas, pero si alguno de los peones es derribado o muere, la animación se cancelará.</AM_Tips.tips.0>
+	<AM_Tips.tips.1>La letalidad de las animaciones de ejecución se puede ajustar en la configuración del mod.</AM_Tips.tips.1>
+	<AM_Tips.tips.2>El enfriamiento del lazo se ve afectado por el tipo de lazo, la habilidad cuerpo a cuerpo y la manipulación del peón.</AM_Tips.tips.2>
+
+</LanguageData>

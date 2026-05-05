@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <jobString>Ejecutando a [OTHER].</jobString>
+
+  <AM_Execution_Stab.label>Ejecución: Estocada</AM_Execution_Stab.label>
+  <AM_Execution_Fail.label>Ejecución: Fallida</AM_Execution_Fail.label>
+  <AM_Execution_Shank.label>Ejecución: Puñalada</AM_Execution_Shank.label>
+  <AM_Execution_Bash.label>Ejecución: Golpe contundente</AM_Execution_Bash.label>
+  <AM_Execution_BashLarge.label>Ejecución: Gran golpe</AM_Execution_BashLarge.label>
+  <AM_Execution_UpSlash.label>Ejecución: Tajo ascendente</AM_Execution_UpSlash.label>
+  <AM_Execution_UpSlash_Doubletap.label>Ejecución: Tajo ascendente (doble)</AM_Execution_UpSlash_Doubletap.label>
+  <AM_Execution_UpDownSlash.label>Ejecución: Tajo doble vertical</AM_Execution_UpDownSlash.label>
+  <AM_Execution_SekiroBS.label>Ejecución: Puñalada acrobática</AM_Execution_SekiroBS.label>
+  <AM_Execution_ThrowSharp.label>Ejecución: Lanzamiento afilado</AM_Execution_ThrowSharp.label>
+  <AM_Execution_Punt.label>Ejecución: Despeje</AM_Execution_Punt.label>
+  <AM_Execution_HeadStab.label>Ejecución: Estocada a la cabeza</AM_Execution_HeadStab.label>
+  <AM_Execution_KnockdownStab.label>Ejecución: Estocada de derribo</AM_Execution_KnockdownStab.label>
+  <AM_Execution_Passover.label>Ejecución: Salto cruzado</AM_Execution_Passover.label>
+  <AM_Execution_Whirlwind.label>Ejecución: Torbellino</AM_Execution_Whirlwind.label>
+  <AM_Execution_HeadRemoval.label>Ejecución: ¡Fuera cabeza!</AM_Execution_HeadRemoval.label>
+  <AM_Execution_Behead.label>Ejecución: Decapitación</AM_Execution_Behead.label>
+  <AM_Execution_BeheadHigh.label>Ejecución: Decapitación con salto</AM_Execution_BeheadHigh.label>
+  <AM_Execution_SpearLift.label>Ejecución: Empalamiento</AM_Execution_SpearLift.label>
+  <AM_Execution_JumpThrow.label>Ejecución: Salto y lanzamiento</AM_Execution_JumpThrow.label>
+  <AM_Execution_PocketSand.label>Ejecución: ¡Arena de bolsillo!</AM_Execution_PocketSand.label>
+
+</LanguageData>
