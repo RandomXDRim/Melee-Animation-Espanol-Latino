@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AM_KnockedOut.label>Noqueado</AM_KnockedOut.label>
+  <AM_KnockedOut.labelNoun>Está noqueado</AM_KnockedOut.labelNoun>
+  <AM_KnockedOut.description>El resultado de haber sido dejado fuera de combate durante una pelea cuerpo a cuerpo.\nLa recuperación ocurrirá automáticamente con el tiempo, o puede ser curado por otro peón, incluso sin medicina.</AM_KnockedOut.description>
+
+</LanguageData>
