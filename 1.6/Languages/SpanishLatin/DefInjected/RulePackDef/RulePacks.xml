@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--Includes-->
+  <AM_Execution_Includes.rulePack.rulesStrings.0>exec_desc->hábilmente</AM_Execution_Includes.rulePack.rulesStrings.0>
+  <AM_Execution_Includes.rulePack.rulesStrings.1>exec_desc->veloz</AM_Execution_Includes.rulePack.rulesStrings.1>
+  <AM_Execution_Includes.rulePack.rulesStrings.2>exec_desc->piadosa</AM_Execution_Includes.rulePack.rulesStrings.2>
+  <AM_Execution_Includes.rulePack.rulesStrings.3>exec_desc->brutal</AM_Execution_Includes.rulePack.rulesStrings.3>
+  <AM_Execution_Includes.rulePack.rulesStrings.4>exec_desc->vengativa</AM_Execution_Includes.rulePack.rulesStrings.4>
+  <AM_Execution_Includes.rulePack.rulesStrings.5>exec_desc->tosca</AM_Execution_Includes.rulePack.rulesStrings.5>
+  <AM_Execution_Includes.rulePack.rulesStrings.6>exec_desc->eficiente</AM_Execution_Includes.rulePack.rulesStrings.6>
+  <AM_Execution_Includes.rulePack.rulesStrings.7>exec_desc->limpia</AM_Execution_Includes.rulePack.rulesStrings.7>
+  <AM_Execution_Includes.rulePack.rulesStrings.8>exec_desc->impactante</AM_Execution_Includes.rulePack.rulesStrings.8>
+  <AM_Execution_Includes.rulePack.rulesStrings.9>exec_desc->espectacular</AM_Execution_Includes.rulePack.rulesStrings.9>
+
+  <AM_Execution_Includes.rulePack.rulesStrings.10>impaled->empaló a</AM_Execution_Includes.rulePack.rulesStrings.10>
+  <AM_Execution_Includes.rulePack.rulesStrings.11>impaled->ensartó a</AM_Execution_Includes.rulePack.rulesStrings.11>
+
+  <AM_Execution_Includes.rulePack.rulesStrings.12>stabbed->apuñaló a</AM_Execution_Includes.rulePack.rulesStrings.12>
+  <AM_Execution_Includes.rulePack.rulesStrings.13>stabbed->atravesó a</AM_Execution_Includes.rulePack.rulesStrings.13>
+
+  <AM_Execution_Includes.rulePack.rulesStrings.14>slashed->cortó a</AM_Execution_Includes.rulePack.rulesStrings.14>
+  <AM_Execution_Includes.rulePack.rulesStrings.15>slashed->laceró a</AM_Execution_Includes.rulePack.rulesStrings.15>
+  <AM_Execution_Includes.rulePack.rulesStrings.16>slashed->le hizo un corte a</AM_Execution_Includes.rulePack.rulesStrings.16>
+  <AM_Execution_Includes.rulePack.rulesStrings.17>slashed->abrió de un tajo a</AM_Execution_Includes.rulePack.rulesStrings.17>
+
+  <AM_Execution_Includes.rulePack.rulesStrings.18>beat->golpeó a</AM_Execution_Includes.rulePack.rulesStrings.18>
+  <AM_Execution_Includes.rulePack.rulesStrings.19>beat->apaleó a</AM_Execution_Includes.rulePack.rulesStrings.19>
+  <AM_Execution_Includes.rulePack.rulesStrings.20>beat->molió a golpes a</AM_Execution_Includes.rulePack.rulesStrings.20>
+
+  <AM_Execution_Includes.rulePack.rulesStrings.21>skillfully->con destreza</AM_Execution_Includes.rulePack.rulesStrings.21>
+  <AM_Execution_Includes.rulePack.rulesStrings.22>skillfully->magistralmente</AM_Execution_Includes.rulePack.rulesStrings.22>
+  <AM_Execution_Includes.rulePack.rulesStrings.23>skillfully->ágilmente</AM_Execution_Includes.rulePack.rulesStrings.23>
+
+  <AM_Execution_Includes.rulePack.rulesStrings.24>weeb_legend->el Espíritu Demoníaco</AM_Execution_Includes.rulePack.rulesStrings.24>
+  <AM_Execution_Includes.rulePack.rulesStrings.25>weeb_legend(p=6)->[INITIATOR_definite], el Exterminador de [RECIPIENT_labelPlural]</AM_Execution_Includes.rulePack.rulesStrings.25>
+  <AM_Execution_Includes.rulePack.rulesStrings.26>weeb_legend->[INITIATOR_definite] el Inmortal</AM_Execution_Includes.rulePack.rulesStrings.26>
+  <AM_Execution_Includes.rulePack.rulesStrings.27>weeb_legend->[INITIATOR_definite], el Conquistador de las Estrellas</AM_Execution_Includes.rulePack.rulesStrings.27>
+  <AM_Execution_Includes.rulePack.rulesStrings.28>weeb_legend->[INITIATOR_definite] el No Muerto</AM_Execution_Includes.rulePack.rulesStrings.28>
+  <AM_Execution_Includes.rulePack.rulesStrings.29>weeb_legend->[INITIATOR_definite] el Sombrío</AM_Execution_Includes.rulePack.rulesStrings.29>
+  <AM_Execution_Includes.rulePack.rulesStrings.30>weeb_legend->[INITIATOR_definite], el Señor Oscuro Supremo</AM_Execution_Includes.rulePack.rulesStrings.30>
+  <AM_Execution_Includes.rulePack.rulesStrings.31>weeb_legend->[INITIATOR_definite], el Coleccionista de Fotos de Pies</AM_Execution_Includes.rulePack.rulesStrings.31>
+  <AM_Execution_Includes.rulePack.rulesStrings.32>weeb_legend->[INITIATOR_definite] el Penetrador</AM_Execution_Includes.rulePack.rulesStrings.32>
+
+  <!--Generic-->
+  <AM_Execution_Generic.rulePack.rulesStrings.0>r_logentry->[RECIPIENT_definite] ha muerto a manos de [INITIATOR_definite] en una ejecución [exec_desc].</AM_Execution_Generic.rulePack.rulesStrings.0>
+
+  <!--Stab-->
+  <AM_Execution_Stab.rulePack.rulesStrings.0>r_logentry->Realizando una ejecución [exec_desc], [INITIATOR_definite] [stabbed] [RECIPIENT_definite] en el/la [recipient_part0_label].</AM_Execution_Stab.rulePack.rulesStrings.0>
+  <AM_Execution_Stab.rulePack.rulesStrings.1>r_logentry->Realizando una ejecución [exec_desc], [INITIATOR_definite] [impaled] [RECIPIENT_definite] con su [INITIATOR_possessive] [TOOL_label].</AM_Execution_Stab.rulePack.rulesStrings.1>
+
+  <!--Slashed-->
+  <AM_Execution_Slashed.rulePack.rulesStrings.0>r_logentry->Realizando una ejecución [exec_desc], [INITIATOR_definite] [slashed] [RECIPIENT_definite] en el/la [recipient_part0_label].</AM_Execution_Slashed.rulePack.rulesStrings.0>
+  <AM_Execution_Slashed.rulePack.rulesStrings.1>r_logentry->Realizando una ejecución [exec_desc], [INITIATOR_definite] [slashed] [RECIPIENT_definite] con su [INITIATOR_possessive] [TOOL_label].</AM_Execution_Slashed.rulePack.rulesStrings.1>
+
+  <!--Blunt-->
+  <AM_Execution_Blunt.rulePack.rulesStrings.0>r_logentry->¡Realizando una ejecución [exec_desc], [INITIATOR_definite] [beat] a [RECIPIENT_definite] hasta matarlo!</AM_Execution_Blunt.rulePack.rulesStrings.0>
+  <AM_Execution_Blunt.rulePack.rulesStrings.1>r_logentry->Realizando una ejecución [exec_desc], [INITIATOR_definite] [beat] a [RECIPIENT_definite] usando su [INITIATOR_possessive] [TOOL_label].</AM_Execution_Blunt.rulePack.rulesStrings.1>
+
+  <!--Passover-->
+  <AM_Execution_Passover.rulePack.rulesStrings.0>r_logentry->Realizando una ejecución [exec_desc], [INITIATOR_definite] [impaled] [RECIPIENT_definite] con su [INITIATOR_possessive] [TOOL_label], ¡y luego lanzó a [RECIPIENT_definite] por encima de su espalda! ¡Brutal!</AM_Execution_Passover.rulePack.rulesStrings.0>
+
+  <!--Weebstick-->
+  <AM_Execution_Weebstick.rulePack.rulesStrings.0>r_logentry->Empuñando su [TOOL_label], un arma que se dice que mató a Dios, [INITIATOR_definite] se enfrentó a [RECIPIENT_definite]. Demasiado rápido para que el ojo pudiera seguirlo, [INITIATOR_pronoun] [slashed] [RECIPIENT_definite].\nTodo el mundo aplaudió.</AM_Execution_Weebstick.rulePack.rulesStrings.0>
+  <AM_Execution_Weebstick.rulePack.rulesStrings.1>r_logentry(p=5)->Empuñando su [TOOL_label], un arma que se dice que mató a Dios, [INITIATOR_definite] se enfrentó a [RECIPIENT_definite]. Demasiado rápido para que el ojo pudiera seguirlo, [INITIATOR_pronoun] [slashed] [RECIPIENT_definite].\nAsí nació la leyenda de [weeb_legend].</AM_Execution_Weebstick.rulePack.rulesStrings.1>
+  <AM_Execution_Weebstick.rulePack.rulesStrings.2>r_logentry->Empuñando su [TOOL_label], un arma que se dice que mató a Dios, [INITIATOR_definite] se enfrentó a [RECIPIENT_definite]. Demasiado rápido para que el ojo pudiera seguirlo, [INITIATOR_pronoun] [slashed] [RECIPIENT_definite].\nNadie puede estar seguro de si la hoja dio el golpe de gracia, o si simplemente [INITIATOR_definite] es tan sombrío que su poderosa aura drenó por completo la voluntad de vivir de [RECIPIENT_definite].</AM_Execution_Weebstick.rulePack.rulesStrings.2>
+
+  <!--Gilgamesh-->
+  <AM_Execution_Gilgamesh.rulePack.rulesStrings.0>r_logentry->En una impresionante hazaña de maestría psíquica [INITIATOR_definite] invocó docenas de armas para empalar a [RECIPIENT_definite].</AM_Execution_Gilgamesh.rulePack.rulesStrings.0>
+
+</LanguageData>

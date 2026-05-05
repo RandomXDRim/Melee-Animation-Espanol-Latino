@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AM_InAnimation.reportString>En animación</AM_InAnimation.reportString>
+
+  <AM_ChannelAnimation.reportString>Preparando animación</AM_ChannelAnimation.reportString>
+
+  <AM_WalkToExecution.reportString>Dirigiéndose hacia TargetA para realizar ejecución.</AM_WalkToExecution.reportString>
+
+  <AM_DoFriendlyDuel.reportString>Participando en un duelo amistoso con TargetA.</AM_DoFriendlyDuel.reportString>
+
+  <AM_SpectateFriendlyDuel.reportString>Observando duelo: Vitoreando a TargetC.</AM_SpectateFriendlyDuel.reportString>
+
+  <AM_GrapplePawn.reportString>Atrapando con lazo</AM_GrapplePawn.reportString>
+
+</LanguageData>

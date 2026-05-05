@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AM_FriendlyDuel_Win.stages.0.label>Ganó un duelo amistoso</AM_FriendlyDuel_Win.stages.0.label>
+  <AM_FriendlyDuel_Win.stages.0.description>¡Gané un duelo amistoso contra {OTHERPAWN}!\nFue un combate relajado, pero aun así se siente bien salir victorioso.</AM_FriendlyDuel_Win.stages.0.description>
+
+  <AM_FriendlyDuel_Lose.stages.0.label>Perdió un duelo amistoso</AM_FriendlyDuel_Lose.stages.0.label>
+  <AM_FriendlyDuel_Lose.stages.0.description>Perdí en un duelo amistoso contra {OTHERPAWN}.\nPerder es decepcionante, pero ha sido una buena práctica. ¡La próxima vez le ganaré!</AM_FriendlyDuel_Lose.stages.0.description>
+
+</LanguageData>

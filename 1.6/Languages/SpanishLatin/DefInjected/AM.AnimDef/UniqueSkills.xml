@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AM_GilgameshVictim.label>Ejecución: Invocación de Armas Místicas</AM_GilgameshVictim.label>
+  <AM_GilgameshVictim.description>Lanzando habilidad única: Invocación de Armas Místicas.</AM_GilgameshVictim.description>
+  <AM_GilgameshVictim.jobString>Oh oh...</AM_GilgameshVictim.jobString>
+
+  <AM_Execution_Weebstick.description>Ejecución: Insultaste a mi dama.</AM_Execution_Weebstick.description>
+
+  <AM_Execution_GaeBulg.label>Ejecución: Gáe Bulg</AM_Execution_GaeBulg.label>
+
+</LanguageData>

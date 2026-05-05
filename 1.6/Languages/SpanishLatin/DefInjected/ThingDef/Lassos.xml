@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AM_LassoCloth.label>Lazo</AM_LassoCloth.label>
+  <AM_LassoCloth.description>Un lazo de tela que puede arrastrar a los enemigos al rango de cuerpo a cuerpo desde la distancia, o sacar a los aliados del peligro.</AM_LassoCloth.description>
+
+  <AM_LassoDevilstrand.label>Lazo de hilodiablo</AM_LassoDevilstrand.label>
+  <AM_LassoDevilstrand.description>Un lazo de hilodiablo que puede arrastrar a los enemigos al rango de cuerpo a cuerpo desde la distancia, o sacar a los aliados del peligro.\nPermite un mayor alcance de lazo en comparación con un lazo regular.</AM_LassoDevilstrand.description>
+
+  <AM_LassoHyperwave.label>Lazo de hipertejido</AM_LassoHyperwave.label>
+  <AM_LassoHyperwave.description>Un lazo de hipertejido que puede arrastrar a los enemigos al rango de cuerpo a cuerpo desde la distancia, o sacar a los aliados del peligro.\nPermite un alcance de lazo aumentado en comparación con un lazo de hilodiablo.</AM_LassoHyperwave.description>
+
+</LanguageData>
